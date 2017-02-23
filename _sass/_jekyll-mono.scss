@@ -212,6 +212,7 @@ button.button-primary:focus {
 	border-radius: 50%;
 	background-position: center center;
 	-webkit-backface-visibility: hidden;
+  	background-size: cover;
 }
 
 .ch-info .ch-info-front {
@@ -240,6 +241,7 @@ button.button-primary:focus {
 
 .ch-img-1 { 
 	background-image: url(#{$avatar});
+    background-size: cover;
 }
 
 .ch-info h3 {
