@@ -4,52 +4,26 @@ title: About
 permalink:/about/
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.  
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna eu dolor placerat varius. Vivamus eros augue, consequat id scelerisque nec, fringilla in est. Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula. 
+## 工作经历
+* [**上海纯米电子科技有限公司**](#) 
 
-Sed faucibus felis purus, sed convallis leo dictum vehicula.
-
-## Education
-
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-* ABC degree from XYZ University.
-
-## Roles
-
-Founder, ABC Organisation
-
-## Skills
-
-* **Skill 1** - `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 2** - `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill` / `Skill`
-* **Skill 3** - `Skill` / `Skill` / `Skill`
-* **Skill 4** - `Skill` / `Skill` / `Skill` 
-* **Skill 5** - `Skill`
-* **Skill 6** - `Skill` / `Skill` 
-    
-    
-## Achievements
-
-
-* [**This is my first achievement**](#) 
+* 2016/05 -- 至今
+* 前端开发工程师
    
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
 
 ***
 
-* [**This is my second achievement**](#) 
+## 教育经历
 
-    Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula.
+* 2011/09 -- 2015/07
+* 无锡太湖学院|计算机科学与技术|本科
 
-***
+## 专业技能
 
-* [**This is my third achievement**](#) 
+* **设计** - `Adobe Photoshop` / `Adobe illustrator` 
+* **前端** - `css` / `html` / `jquery` / `node.js` / `git` 
+       
+## 联系方式
 
-   Proin pellentesque malesuada mauris, quis aliquam augue vestibulum ac. Vestibulum ut feugiat nibh. Sed faucibus felis purus, sed convallis leo dictum vehicula
-
-
-## Contact me
-
-[agarwal.akshay.akshay8@gmail.com](mailto:agarwal.akshay.akshay8@gmail.com)
+[xiaolinna0625@163.com](xiaolinna0625@163.com)
