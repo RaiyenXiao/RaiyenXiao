@@ -16,12 +16,12 @@ description: 上海浦东新区
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: agarwal.akshay.akshay8@gmail.com
+  email: 782484014@qq.com
   facebook:
   flickr:
-  github: AkshayAgarwal007
+  github: RaiyenXiao
   instagram:
-  linkedin: akshay-agarwal-782018a4
+  linkedin: 
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -45,7 +45,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/about"
+baseurl: ""
 
 #
 # !! You don't need to change any of the configuration flags below !!
