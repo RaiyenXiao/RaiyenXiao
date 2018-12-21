@@ -105,8 +105,3 @@ cnpm i echarts -S
 - 点击项目仓库的`setting`,找到`source`,切换到`gh-pages branch`,点击保存
 
 访问 https://raiyenxiao.github.io/RaiyenXiao/#/  
-
-<<<<<<< HEAD
-=======
- [1]: http://maxiang.info/client_zh
->>>>>>> 2e4ba546f85a01bb6c52e0ffd5e8809d06193ad9
