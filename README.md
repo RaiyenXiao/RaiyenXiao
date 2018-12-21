@@ -14,7 +14,7 @@
 
 **步骤**：
 - 首先在远程仓库创建一个`RaiyenXiao`仓库，拉去仓库到本地
-- 利用Vue-cli快速构建一个项目 方法查看 [Vue-cli快速构建规范的VUE项目骨架]<http://maxiang.info/client_zh>
+- 利用Vue-cli快速构建一个项目 方法查看 [Vue-cli快速构建规范的VUE项目骨架](https://github.com/RaiyenXiao/Note/tree/master/Vue-cli)
 - 在项目中安装`ECharts`依赖，使用`requrie`按需引用图表组件:
 ```
 cnpm i echarts -S
