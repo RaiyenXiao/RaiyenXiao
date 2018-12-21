@@ -1,31 +1,96 @@
 <template>
     <div class="experience">
-        <el-row>
-            <el-col :span="8">
+        <el-row >
+            <el-col :span="24">
                 <div class="grid-content">
-                    <h3></h3>
+                    <h2>项目经验</h2>
                 </div>
             </el-col>
-            <el-col :span="8">
+            <el-col :span="24">
+                <div class="grid-content">
+                    <div class="company">
+                        <h3>小觅智能-轻客智能科技（江苏）有限公司</h3>
+                        <div class="time">2018.09-至今</div>
+                    </div>
+                    <p class="des">参与项目：官网开发、楼宇机器人小程序</p>
+                    <div class="detail">
+                        <h5>工作描述:</h5>
+                        <ul>
+                            <li>1.按照官网设计图，使用CI(php框架)+H5+css3+js将设计稿转为前端页面，适配PC、平板、手机等多个终端，网址 http://www.myntai.com/</li>
+                        </ul>
+                        <h5>项目描述：</h5>
+                        <p>---</p>
+                    </div>
+                </div>
+            </el-col>
+            <el-col :span="24">
                 <div class="grid-content">
                     <div class="company">
                         <h3>无锡智保科技有限公司</h3>
                         <div class="time">2018.03-2018.09</div>
                     </div>
-                    <p>参与项目：智保网官网，智保直销微信公众号页面，智保微信H5引导页，家装项目</p>
+                    <p class="des">参与项目：智保网官网，智保直销微信公众号页面，智保微信H5引导页，家装项目</p>
                     <div class="detail">
                         <h5>工作描述:</h5>
                         <ul>
                             <li>
-
+                                1.按照官网设计图，使用html +css+jQuery +json将设计稿百分百转化为前端页面，网址 http://www.qqbx.cn
+                            </li>
+                            <li>
+                                2.使用teenmax.js+swiper.js完成H5引导页动画效果，地址：http://seo.ins88.cn/cus/new_qrcode?puid=28392
+                            </li>
+                            <li>
+                                3.参与智保直销项目前端开发，使用html+css+vue.js及jQuery weui框架完成页面前端开发，使用vue-resource/axios进行前后台数据交互
+                            </li>
+                            <li>
+                                4.基于需求变更优化页面，提高用户体验
                             </li>
                         </ul>
+                        <h5>项目描述：</h5>
+                        <p>智保网是一个保险代理人展业平台，致力于为保险代理人提供展业获客帮助，同时提供保险免费问答，快速获取保险方案</p>
                     </div>
                 </div>
             </el-col>
-            <el-col :span="8">
+            <el-col :span="24">
                 <div class="grid-content">
-
+                    <div class="company">
+                        <h3>上海纯米科技有限公司</h3>
+                        <div class="time">2016.05-2018.03</div>
+                    </div>
+                    <p class="des">参与项目：知吾煮APP及宣传页、官网、知吾煮小程序</p>
+                    <div class="detail">
+                        <h5>工作描述:</h5>
+                        <ul>
+                            <li>1.参与公司自营品牌app项目开发，使用html +css+jQuery 将产品设计图百分百转化为前端页面，实现部分交互效果</li>
+                            <li>2.基于需求变更和优化页面，并提高代码的重用性和可读性</li>
+                            <li>3.参与自营品牌商城微信小程序页面开发</li>
+                            <li>4.协调后台人员修改优化后台页面</li>
+                            <li>5.优化重构官网部分页面，增加新的产品内容</li>
+                            <li>6.宣传页开发</li>
+                        </ul>
+                        <h5>项目描述：</h5>
+                        <p>知吾煮是一款公司产品的手机控制端软件，能够帮助用户进行更好的操作，用户可通知对知吾煮进行远程操作，简单方便。除了控制产品以外，还结合了食谱，社区，商城等，用户可上传分享食谱，收藏点赞他人食谱。</p>
+                    </div>
+                </div>
+            </el-col>
+            <el-col :span="24">
+                <div class="grid-content">
+                    <div class="company">
+                        <h3>上海丞风智能科技有限公司</h3>
+                        <div class="time">2015.08-2016.05</div>
+                    </div>
+                    <p class="des">参与项目：官网开发、BI报表后台页面开发、货多多App ，橙久微信商场</p>
+                    <div class="detail">
+                        <h5>工作描述:</h5>
+                        <ul>
+                            <li>1.参与货多多app 开发，使用html css jq及appcan框架将产品原型图及设计图转化为前端页面，并实现交互效果，使用ajax进行前后端数据交互，完成单独模块整体功能</li>
+                            <li>2.使用bootstrap框架，参与橙久微信商场开发，完成相应模块的前端开发及数据交互</li>
+                            <li>3.使用bootstrap+echarts开发BI报表前端页面</li>
+                            <li>4.开发公司官网、湘达物流官网、跃豹物流官网</li>
+                        </ul>
+                        <h5>项目描述：</h5>
+                        <p>货多多是一款物流手机端软件，可通过单号查询查询物流信息</p>
+                    </div>
                 </div>
             </el-col>
         </el-row>
@@ -39,5 +104,33 @@
 </script>
 
 <style scoped>
-
+.experience h2{
+    font-size: 24px;
+    margin-bottom: 30px;
+}
+.experience .grid-content{
+    margin-bottom: 24px;
+}
+.experience .company{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    align-items: center;
+}
+.experience .grid-content h3{
+    font-size: 18px;
+}
+.experience .company .time{
+    color: #999;
+    font-size: 14px;
+}
+.experience .grid-content .des{
+    font-size: 16px;
+}
+.experience .grid-content .detail{
+    font-size: 16px;
+}
+.experience .grid-content h5{
+    margin: 10px 0 6px;
+}
 </style>

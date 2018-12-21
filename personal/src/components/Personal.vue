@@ -19,8 +19,7 @@
 <style scoped>
 .personal-info {
   width: 100%;
-  height: 500px;
-  padding-left: 20px;
+  height: auto;
 }
 .personal-info img{
     width: 60%;

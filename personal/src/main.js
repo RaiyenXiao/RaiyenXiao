@@ -8,7 +8,6 @@ Vue.config.productionTip = false
 
 // 引入样式重置
 import '../static/css/reset.css'
-
 //引入echarts(全局引用 建议使用按需引用)
 // import echarts from 'echarts'
 // Vue.prototype.$echarts = echarts
