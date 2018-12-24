@@ -1,6 +1,6 @@
 <template>
     <div class="personal-info">
-        <img src="/static/image/avatar.png" alt="">
+        <img src="static/image/avatar.png" alt="">
         <p>姓&emsp;&emsp;名：肖琳娜</p>
         <p>学&emsp;&emsp;历：本科</p>
         <p>工作年限：3 年</p>
