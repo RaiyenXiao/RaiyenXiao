@@ -2,7 +2,7 @@
 
 -------
 
-在git 创建仓库，按照 GitHub Pages 的规定，名称为 `username.github.io` 的项目的`master `分支，或者其它名称的项目的 `gh-pages` 分支可以自动生成 `G`itHub Pages` 页面；这里我们利用gh-pages展示。
+在git 创建仓库，按照 GitHub Pages 的规定，名称为 `username.github.io` 的项目的`master `分支，或者其它名称的项目的 `gh-pages` 分支可以自动生成 `GitHub Pages` 页面；这里我们利用gh-pages展示。
 
 ### vue-cli创建一个简单的个人简历页面
 使用到的技术：
@@ -20,7 +20,7 @@
 cnpm i echarts -S
 ```
 - 安装`ElementUI` :
-  1. 安装 `E`lementUI`：
+  1. 安装 `ElementUI`：
   ```
   npm i element-ui -S
   ```
@@ -80,7 +80,7 @@ cnpm i echarts -S
 - 完成项目模块内容
 - 执行`cnpm run build`打包项目
 
-此命令完成后，目录下会多出一个`dist`文件夹，包含一个static文件夹和indexe.html；tatic文件下包括项目打包后的css、js、img、fonts(字体图标)。
+此命令完成后，目录下会多出一个`dist`文件夹，包含一个static文件夹和indexe.html；static文件下包括项目打包后的css、js、img、fonts(字体图标)。
 
 点击index.html,浏览器显示该页面是空白的，发现项目资源无法加载
 
