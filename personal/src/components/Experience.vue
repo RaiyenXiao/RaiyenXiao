@@ -100,7 +100,7 @@
 </script>
 
 <style scoped>
-.experience h3{
+.experience>h3{
     font-size: 24px;
     margin: 50px auto;
     text-align: center;
