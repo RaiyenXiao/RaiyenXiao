@@ -8,5 +8,31 @@
   <body>
     <div id="app"></div>
     <!-- built files will be auto injected -->
+    <svg id="ace-bg-shape-1" class="hidden-sm-only hidden-xs-only" height="519" width="758">
+      <polygon points="0,455,693,352,173,0,92,0,0,71" style="fill:#d2d2d2;stroke:purple;stroke-width:0; opacity: 0.5">
+  </polygon>
+  </svg>
+  <svg id="ace-bg-shape-2" class="hidden-sm-only hidden-xs-only" height="536" width="633">
+    <polygon points="0,0,633,0,633,536" style="fill:#c0e3e7;stroke:purple;stroke-width:0"></polygon>
+  </svg>
   </body>
 </html>
+<style scoped>
+body{
+  background-color: #f3f3f3;
+  color: #333;
+}
+svg#ace-bg-shape-1,
+svg#ace-bg-shape-2{
+  overflow: hidden;
+  position: fixed;
+  z-index: -1;
+  top: 0;
+}
+svg#ace-bg-shape-1{
+  left: 0;
+}
+svg#ace-bg-shape-2{
+  right: 0;
+}
+</style>

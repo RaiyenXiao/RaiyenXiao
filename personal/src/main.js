@@ -15,6 +15,8 @@ import '../static/css/reset.css'
 // 引入及使用 ElementUI 按需引入 Row 与 Col(借助 babel-plugin-component，我们可以只引入需要的组件，以达到减小项目体积的目的。)
 import {Row, Col} from 'element-ui';
 Vue.use(Row).use(Col);
+import 'element-ui/lib/theme-chalk/display.css';
+
 
 /* eslint-disable no-new */
 new Vue({

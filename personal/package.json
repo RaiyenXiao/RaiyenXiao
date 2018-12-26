@@ -14,7 +14,8 @@
     "echarts": "^4.2.0-rc.2",
     "element-ui": "^2.4.11",
     "vue": "^2.5.2",
-    "vue-router": "^3.0.1"
+    "vue-router": "^3.0.1",
+    "vue-typed-js": "^0.1.2"
   },
   "devDependencies": {
     "autoprefixer": "^7.1.2",

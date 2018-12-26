@@ -1,35 +1,28 @@
 <template>
     <div class="experience">
-        <el-row >
-            <el-col :span="24">
-                <div class="grid-content">
-                    <h2>项目经验</h2>
+        <h3>项目经验</h3>
+        <div class="experience-content">
+        <el-row class="work-info clearfix">
+            <el-col :xs="24" :sm="24" :md="12" class="work-left">
+                <h4 class="time">2018.09-至今</h4>
+            </el-col>
+             <el-col :xs="24" :sm="24" :md="12" class="work-right">
+                <h3>小觅智能-轻客智能科技（江苏）有限公司</h3>
+                <p class="des">参与项目：官网开发、楼宇机器人小程序</p>
+                <div class="detail">
+                    <h5>工作描述:</h5>
+                    <ul>
+                        <li>1.按照官网设计图，使用CI(php框架)+H5+css3+js将设计稿转为前端页面，适配PC、平板、手机等多个终端，网址 http://www.myntai.com/</li>
+                    </ul>
+                    <h5>项目描述：</h5>
+                    <p>---</p>
                 </div>
             </el-col>
-            <el-col :span="24">
-                <div class="grid-content">
-                    <div class="company">
-                        <h3>小觅智能-轻客智能科技（江苏）有限公司</h3>
-                        <div class="time">2018.09-至今</div>
-                    </div>
-                    <p class="des">参与项目：官网开发、楼宇机器人小程序</p>
-                    <div class="detail">
-                        <h5>工作描述:</h5>
-                        <ul>
-                            <li>1.按照官网设计图，使用CI(php框架)+H5+css3+js将设计稿转为前端页面，适配PC、平板、手机等多个终端，网址 http://www.myntai.com/</li>
-                        </ul>
-                        <h5>项目描述：</h5>
-                        <p>---</p>
-                    </div>
-                </div>
-            </el-col>
-            <el-col :span="24">
-                <div class="grid-content">
-                    <div class="company">
-                        <h3>无锡智保科技有限公司</h3>
-                        <div class="time">2018.03-2018.09</div>
-                    </div>
-                    <p class="des">参与项目：智保网官网，智保直销微信公众号页面，智保微信H5引导页，家装项目</p>
+        </el-row>
+        <el-row class="work-info clearfix">
+            <el-col :xs="24" :sm="24" :md="12" class="work-left">
+                <h3>无锡智保科技有限公司</h3>
+                <p class="des">参与项目：智保网官网，智保直销微信公众号页面，智保微信H5引导页，家装项目</p>
                     <div class="detail">
                         <h5>工作描述:</h5>
                         <ul>
@@ -49,15 +42,18 @@
                         <h5>项目描述：</h5>
                         <p>智保网是一个保险代理人展业平台，致力于为保险代理人提供展业获客帮助，同时提供保险免费问答，快速获取保险方案</p>
                     </div>
-                </div>
             </el-col>
-            <el-col :span="24">
-                <div class="grid-content">
-                    <div class="company">
-                        <h3>上海纯米科技有限公司</h3>
-                        <div class="time">2016.05-2018.03</div>
-                    </div>
-                    <p class="des">参与项目：知吾煮APP及宣传页、官网、知吾煮小程序</p>
+            <el-col :xs="24" :sm="24" :md="12" class="work-right work-right2">
+               <h4 class="time">2018.03-2018.09</h4>
+            </el-col>
+        </el-row>
+        <el-row class="work-info clearfix">
+            <el-col :xs="24" :sm="24" :md="12" class="work-left">
+                <h4 class="time">2016.05-2018.03</h4>
+            </el-col>
+             <el-col :xs="24" :sm="24" :md="12" class="work-right">
+                <h3>上海纯米科技有限公司</h3>
+                  <p class="des">参与项目：知吾煮APP及宣传页、官网、知吾煮小程序</p>
                     <div class="detail">
                         <h5>工作描述:</h5>
                         <ul>
@@ -71,14 +67,11 @@
                         <h5>项目描述：</h5>
                         <p>知吾煮是一款公司产品的手机控制端软件，能够帮助用户进行更好的操作，用户可通知对知吾煮进行远程操作，简单方便。除了控制产品以外，还结合了食谱，社区，商城等，用户可上传分享食谱，收藏点赞他人食谱。</p>
                     </div>
-                </div>
             </el-col>
-            <el-col :span="24">
-                <div class="grid-content">
-                    <div class="company">
-                        <h3>上海丞风智能科技有限公司</h3>
-                        <div class="time">2015.08-2016.05</div>
-                    </div>
+        </el-row>
+        <el-row class="work-info clearfix">
+            <el-col :xs="24" :sm="24" :md="12" class="work-left">
+                <h3>上海丞风智能科技有限公司</h3>              
                     <p class="des">参与项目：官网开发、BI报表后台页面开发、货多多App ，橙久微信商场</p>
                     <div class="detail">
                         <h5>工作描述:</h5>
@@ -91,9 +84,12 @@
                         <h5>项目描述：</h5>
                         <p>货多多是一款物流手机端软件，可通过单号查询查询物流信息</p>
                     </div>
-                </div>
+            </el-col>
+            <el-col :xs="24" :sm="24" :md="12" class="work-right work-right2">
+               <h4 class="time">2015.08-2016.05</h4>
             </el-col>
         </el-row>
+        </div>
     </div>
 </template>
 
@@ -104,33 +100,77 @@
 </script>
 
 <style scoped>
-.experience h2{
+.experience h3{
     font-size: 24px;
-    margin-bottom: 30px;
+    margin: 50px auto;
+    text-align: center;
 }
-.experience .grid-content{
-    margin-bottom: 24px;
+.experience-content{
+    position: relative;
 }
-.experience .company{
-    display: flex;
-    justify-content: space-between;
-    margin-bottom: 10px;
-    align-items: center;
+.experience-content::after{
+    position: absolute;
+    width: 1px;
+    height: 100%;
+    z-index: -1;
+    content: " ";
+    display: block;
+    background-color: #999;
+    top: 0;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
 }
-.experience .grid-content h3{
+.work-info{
+    padding: 20px 0;
+}
+.work-info h4.time{
+    position: relative;
+    padding: 0 14px;
+    display: inline-block;
+    line-height: 30px;
     font-size: 18px;
 }
-.experience .company .time{
-    color: #999;
-    font-size: 14px;
+.work-info h4.time:before {
+    width: 0;
+    height: 0;
+    position: absolute;
+    content: '';
+    top: 5px;
+    right: -14px;
+    border-style: solid;
+    border-width: 10px 0 10px 17px;
+    border-color: transparent transparent transparent #ec1944;  
 }
-.experience .grid-content .des{
+.work-info .work-right2 h4.time:before{
+    left: -14px;
+    right: auto;
+    -webkit-transform: rotate(180deg);
+    -moz-transform: rotate(180deg);
+    transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+}
+.work-left{
+    text-align: right;
+    padding-right: 60px;
+}
+.work-right{
+    padding-left: 40px;
+}
+.work-info h3{
+    font-size: 18px;
+    margin-bottom: 14px;
+    line-height: 30px;
+}
+.work-info .des{
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+.work-info .detail{
     font-size: 16px;
 }
-.experience .grid-content .detail{
-    font-size: 16px;
-}
-.experience .grid-content h5{
+.work-info h5{
     margin: 10px 0 6px;
 }
 </style>
